@@ -17,7 +17,7 @@ import android.widget.FrameLayout;
 import java.util.Random;
 import android.content.Intent;
 
-
+//20180804 石本更新テスト
 
 public class MainActivity extends Activity implements Runnable, SensorEventListener {
     SensorManager manager;
