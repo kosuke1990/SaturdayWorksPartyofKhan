@@ -26,7 +26,7 @@ public class TitleActivity extends Activity {
         gyroButton2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent3 = new Intent(getApplication(), MainActivity2.class);
+                Intent intent3 = new Intent(getApplication(), ZassouActivity.class);
                 startActivity(intent3);
             }
         });
