@@ -18,7 +18,7 @@
         <activity android:name=".MainActivity"
             android:label="@string/app_name" >
         </activity>
-        <activity android:name=".MainActivity2"
+        <activity android:name=".ZassouActivity"
             android:label="@string/app_name" >
         </activity>
         <activity android:name=".MainActivity3"
